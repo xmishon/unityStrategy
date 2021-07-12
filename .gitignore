@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Downloaded Unity packages
+[Aa]ssets/3D Game Kit - Character Pack
+[Aa]ssets/3D Game Kit - Environment Pack
+[Aa]ssets/TextMesh Pro
+[Aa]ssets/RPGPP_LT
